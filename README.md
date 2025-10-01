@@ -15,8 +15,8 @@
 - **Languages**: Python, Bash, YAML
 
 ### 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/tibyan-hussien-1889339a
-- Email: tib9051@gmail.com
+- LinkedIn: [www.linkedin.com/in/tibyan-hussien-1889339a](www.linkedin.com/in/tibyan-hussien-1889339a)
+- Email: (tib9051@gmail.com)[tib9051@gmail.com]
 
 <!--
 **Bluerate90/Bluerate90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
