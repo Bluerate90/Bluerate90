@@ -3,7 +3,7 @@
 ## 🚀 DevOps Engineer | Cloud Enthusiast | Kubernetes Specialist
 
 ### 🔭 Current Projects
-- 🌟 [Kubernetes Multi-Tier Application Deployment]([link-to-this-project](https://github.com/Bluerate90/k8s-multi-tier-app-deployment))
+- 🌟 [Kubernetes Multi-Tier Application Deployment][https://github.com/Bluerate90/k8s-multi-tier-app-deployment]
 - Working with containerization and orchestration
 
 ### 🛠️ Skills & Technologies
