@@ -3,7 +3,7 @@
 ## 🚀 DevOps Engineer | Cloud Enthusiast | Kubernetes Specialist
 
 ### 🔭 Current Projects
-- 🌟 [Kubernetes Multi-Tier Application Deployment][https://github.com/Bluerate90/k8s-multi-tier-app-deployment]
+- 🌟 Kubernetes Multi-Tier Application Deployment https://github.com/Bluerate90/k8s-multi-tier-app-deployment
 - Working with containerization and orchestration
 
 ### 🛠️ Skills & Technologies
@@ -15,9 +15,8 @@
 - **Languages**: Python, Bash, YAML
 
 ### 📫 Connect With Me
-- LinkedIn: [www.linkedin.com/in/tibyan-hussien-1889339a]
+- LinkedIn: www.linkedin.com/in/tibyan-hussien-1889339a
 - Email: tib9051@gmail.com
-- Portfolio: [Your Website]
 
 <!--
 **Bluerate90/Bluerate90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Portfolio: [Your Website]
 -->
