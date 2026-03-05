@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🚀 DevSecOps Engineer | Cloud Enthusiast | Kubernetes Specialist
+## 🚀 DevSecOps/Platform Engineer | Cloud Enthusiast | Kubernetes Specialist
 
 ### 🔭 Current Projects
 - 🌟 Kubernetes Multi-Tier Application Deployment https://github.com/Bluerate90/k8s-multi-tier-app-deployment
